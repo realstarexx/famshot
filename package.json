@@ -1,0 +1,23 @@
+{
+  "name": "famshot",
+  "version": "1.0.0",
+  "description": "Inspect elements, monitor network requests, debug JavaScript, and explore storage, all inside the page itself.",
+  "main": "src/index.js",
+  "keywords": [
+    "devtool",
+    "console",
+    "mobile",
+    "web",
+    "bookmarklet"
+  ],
+  "author": "Starexx",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/realstarexx/tool.git"
+  },
+  "homepage": "https://github.com/realstarexx/tool",
+  "bugs": {
+    "url": "https://github.com/realstarexx/tool/issues"
+  }
+}
