@@ -6,7 +6,7 @@
 **Step 1**:
   - Copy the code below
 ```javascript
-javascript:fetch("https://cdn.jsdelivr.net/gh/realstarexx/dev/src/starexx.js").then(r=>r.text()).then(eval)
+javascript:fetch("https://unpkg.com/starexx").then(r=>r.text()).then(eval)
 ```
 
 **Step 2**: 
@@ -15,7 +15,7 @@ javascript:fetch("https://cdn.jsdelivr.net/gh/realstarexx/dev/src/starexx.js").t
      - On mobile, first bookmark any page, then edit that bookmark and replace the URL with the code above. Give it a name like **DevTools** and save.
 
 **Step 3**:
-  - Open any web page, then tap or click the f0xc bookmark. The tool loads and runs automatically on that page.
+  - Open any web page, then tap or click the bookmark. The tool loads and runs automatically on that page.
 
 
 **Notes**:
