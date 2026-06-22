@@ -1,6 +1,6 @@
 {
   "name": "famshot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inspect elements, monitor network requests, debug JavaScript, and explore storage, all inside the page itself.",
   "main": "src/index.js",
   "keywords": [
