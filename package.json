@@ -1,6 +1,6 @@
 {
   "name": "famshot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inspect elements, monitor network requests, debug JavaScript, and explore storage, all inside the page itself.",
   "main": "src/index.js",
   "keywords": [
@@ -14,10 +14,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/realstarexx/tool.git"
+    "url": "https://github.com/realstarexx/famshot.git"
   },
-  "homepage": "https://github.com/realstarexx/tool",
+  "homepage": "https://github.com/realstarexx/famshot",
   "bugs": {
-    "url": "https://github.com/realstarexx/tool/issues"
+    "url": "https://github.com/realstarexx/famshot/issues"
   }
 }
